@@ -382,5 +382,7 @@ Proper implementation of these techniques not only prevents SQLi but also enhanc
 
 ## Resources 
 [1] https://portswigger.net/web-security/sql-injection
+
 [2] https://en.wikipedia.org/wiki/SQL_injection
+
 [3] https://owasp.org/Top10/2021/A03_2021-Injection/
