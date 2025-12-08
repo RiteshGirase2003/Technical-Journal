@@ -134,3 +134,7 @@ Even if services restart or fail, messages remain safe.
 
 Message brokers help build **scalable, resilient, loosely coupled** systems for safe asynchronous communication.
 
+
+I’m still learning, so if there’s anything I got wrong or something you’d like to add, please share in the comments. Let’s learn together!
+
+**Thank You.**
