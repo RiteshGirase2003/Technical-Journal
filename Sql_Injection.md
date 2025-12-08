@@ -380,6 +380,10 @@ SQL Injection remains a critical vulnerability with severe consequences if unadd
 Proper implementation of these techniques not only prevents SQLi but also enhances performance and maintains data integrity.
 
 
+I’m still learning, so if there’s anything I got wrong or something you’d like to add, please share in the comments. Let’s learn together!
+
+**Thank You.**
+
 ## Resources 
 [1] https://portswigger.net/web-security/sql-injection
 
