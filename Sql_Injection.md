@@ -12,7 +12,7 @@ SQL Injection can be define as **code injection technique where malicious SQL st
 
 ### 1.2 Why it matters 
 SQL injection is one of the most prevalent and dangerous web application vulnerabilities because a successful attack can have severe consequences for individuals and businesses. The **Open Web Application Security Project** (**OWASP**) consistently ranks injection as a top security risk.
-Refer Resoure 3 : Injection (**A03:2021**), which includes SQL Injection, is ranked as the **third most critical web application security risk**. The **2021** report noted that **94%** of applications were tested for some form of injection, with a high incidence rate.
+Refer 3 : Injection (**A03:2021**), which includes SQL Injection, is ranked as the **third most critical web application security risk**. The **2021** report noted that **94%** of applications were tested for some form of injection, with a high incidence rate.
 
 Key impacts includes 
 1. Unauthorized access to sensitive data
@@ -33,14 +33,6 @@ The data exposed in the breach included payment transaction data, data coded int
 #### Sony PlayStation Network (2011)
 An SQLi vulnerability was exploited to breach Sony's network, compromising approximately 77 million user accounts and resulting in significant financial losses and service disruptions.
 
-#### Yahoo (2014)
-A major breach, which was partly attributed to SQL injection, compromised an estimated 500 million user accounts (later updated to 3 billion total accounts in a separate disclosure).
-
-#### Equifax (2017) 
-Attackers exploited an unpatched SQL injection vulnerability in a web application to access the personal information of approximately 147 million people, including names, addresses, and Social Security numbers. This incident led to substantial fines and extensive reputational damage.
-
-#### MOVEit Transfer (2023) 
-While involving a more complex, combined attack, a critical SQL injection vulnerability in the widely used file-transfer service was exploited by the Clop ransomware group, affecting numerous global organizations including British Airways and the BBC, and leading to the exfiltration of massive volumes of data.
 
 ## 2 Core Concepts
 
